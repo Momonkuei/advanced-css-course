@@ -3,7 +3,7 @@
     // $gutter-vertical: 8rem;
     // $gutter-horizonal: 6rem;
     max-width: $gird-width;
-    background-color: #eee;
+    // background-color: #eee;
     margin: 0 auto;
 
     &:not(:last-child) {
@@ -15,7 +15,7 @@
 
     //選擇所有 class 名稱  col 開頭的
     [class^="col-"] {
-        background-color: orangered;
+        // background-color: orangered;
         float: left;
 
         &:not(:last-child) {
